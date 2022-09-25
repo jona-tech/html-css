@@ -70,6 +70,20 @@ html {
     text-align: center;
 }
 
+/* home content */
+
+.home-content {
+    border: 3px solid saddlebrown;
+    border-radius: 25px;
+    text-align: center;
+}
+
+.home-content p {
+    font-size: 20px;
+    letter-spacing: 3px;
+    color: saddlebrown;
+}
+
 /* footer */
 
 #footer {
