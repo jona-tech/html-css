@@ -1,6 +1,42 @@
-body, html {
+body,
+html {
     height: 100%;
     color: darkolivegreen;
-    background: rgba(224, 255, 255, 0,4);
+    background: rgba(224, 255, 255, 0, 4);
 }
 
+.hero-image {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6),
+            rgba(0, 0, 0, 0.5)),
+        url("https://as1.ftcdn.net/v2/jpg/03/00/01/62/1000_F_300016238_8JFkFEySQBVUoAT0lMNPXeevtMuoyX4w.jpg");
+        height: 100%;
+        width: 98vw;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        position: relative;
+        border: 2px solid lightcyan;
+        border-radius: 25px;
+    }
+
+    .hero-text h1 {
+        font-family: 'Mulish', sans-serif;
+        padding-left: 25px;
+        padding-top: 15px;
+        font-size: 350%;
+        text-align: center;
+        color: #fff;
+        letter-spacing: 20px;
+        border: none;
+    }
+
+    .hero-text p {
+        font-family: 'Mulish', sans-serif;
+        padding-left: 25px;
+        font-size: 100%;
+        text-align: center;
+        color: #fff;
+        letter-spacing: 5px;
+        font-style: italic;
+        border: none;
+    }
