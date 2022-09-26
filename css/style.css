@@ -76,11 +76,34 @@ html {
     border: 3px solid saddlebrown;
     border-radius: 25px;
     text-align: center;
+    margin: 15%;
+    padding-bottom: 10%;
+    padding-left: 10%;
+    padding-right: 10%;
 }
 
 .home-content p {
     font-size: 20px;
     letter-spacing: 3px;
+    color: saddlebrown;
+}
+
+.home-content {
+    color: saddlebrown;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+iframe {
+    border-radius: 25px;
+    align-content: center;
+    border: 4px solid saddlebrown;
+    height: 500px;
+    width: 95%;
+}
+
+#take-five {
+    text-decoration: underline;
     color: saddlebrown;
 }
 
