@@ -17,5 +17,11 @@ You can use it in many different environments, you only need to put on your head
 <ul>
 <li>Header Image</li>
 <ul><li>The header image shows a person meditating wich follows the theme of the website</li>
-<li>The image includes a text with a link to the Home page so the user always can navigate there easily</li></ul>
+<li>The image includes a text with a link to the Home page so the user always can navigate there easily</li>
+<li>The section is responsive and will follow when adjusting screen sizes</li></ul>
+<img src="https://i.imgur.com/Pw1fBXE.png">
 </ul>
+
+
+## Bugs & Fixing
+
