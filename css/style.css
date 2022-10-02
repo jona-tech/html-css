@@ -93,11 +93,11 @@ body, html {
 .home-content p {
     font-size: 20px;
     letter-spacing: 3px;
-    color: #A36B5C;
+    color: darkolivegreen;
 }
 
 .home-content {
-    color: #A36B5C;
+    color: darkolivegreen;
     margin-top: 10px;
     margin-bottom: 0px;
 }
@@ -112,7 +112,7 @@ iframe {
 
 #take-five {
     text-decoration: underline;
-    color: #A36B5C;
+    color: darkolivegreen;
 }
 
 
