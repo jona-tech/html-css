@@ -115,6 +115,16 @@ iframe {
     color: darkolivegreen;
 }
 
+.h2 {
+    margin: 0 auto;
+    padding-left: 30%;
+    padding-right: 25%;
+    margin-bottom: 5%;
+    letter-spacing: 4px;
+    border-top: 2px solid;
+    border-bottom: 2px solid;
+    font-weight: lighter;
+}
 
 .form {
     background: lightskyblue;
@@ -149,7 +159,9 @@ iframe {
     margin-right: 250px;
 }
 
-
+#icon {
+    font-size: 250%;
+}
 
    
   
