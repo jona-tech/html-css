@@ -1,6 +1,6 @@
 body, html {
     color: darkolivegreen;
-    background: rgba(235, 241, 245);
+    background: #fff;
     
 }
 
@@ -14,7 +14,7 @@ body, html {
         background-repeat: no-repeat;
         background-size: cover;
         position: relative;
-        border: 2px solid rgb(83, 59, 77);
+        border: 2px solid #A36B5C;
         border-radius: 25px;
     }
 
@@ -81,7 +81,7 @@ body, html {
 /* home content */
 
 .home-content {
-    border: 3px solid rgb(83, 59, 77);
+    border: 3px solid #A36B5C;
     border-radius: 25px;
     text-align: center;
     margin: 15%;
@@ -93,11 +93,11 @@ body, html {
 .home-content p {
     font-size: 20px;
     letter-spacing: 3px;
-    color: rgb(83, 59, 77);
+    color: #A36B5C;
 }
 
 .home-content {
-    color: rgb(83, 59, 77);
+    color: #A36B5C;
     margin-top: 10px;
     margin-bottom: 0px;
 }
@@ -105,19 +105,19 @@ body, html {
 iframe {
     border-radius: 25px;
     align-content: center;
-    border: 4px solid rgb(83, 59, 77);
+    border: 4px solid #A36B5C;
     height: 500px;
     width: 95%;
 }
 
 #take-five {
     text-decoration: underline;
-    color: rgb(83, 59, 77);
+    color: #A36B5C;
 }
 
 
 .form {
-    background: rgba(242, 217, 206);
+    background: lightskyblue;
     border-radius: 25px;
     color: darkolivegreen;
     width: 33%;
@@ -128,7 +128,7 @@ iframe {
 }
 
 .form input {
-    border: 3.5px solid lightskyblue;
+    border: 3.5px solid darkolivegreen;
     margin: 25px;
     height: 20px;
     width: 60%;
