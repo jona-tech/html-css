@@ -335,7 +335,7 @@ iframe {
 
 @media only screen and (max-width: 320px) {
     body {
-        width: 320px;
+        width: 100%;
     }
 
     h1 {
