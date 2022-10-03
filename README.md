@@ -43,8 +43,13 @@ for smaller screens.</li>
 <li>Community</li>
 <ul>
 <li>The page consists of a heading, a short text about why you should sign up to the community and a form to sign up.</li>
+<img src="https://i.imgur.com/5FvAzKT.png" height="184" width="500">
+<li>The form has three input fields and a submit button.</li>
+<img src="https://i.imgur.com/M0nP8gG.png" height="453" width="500">
 </ul>
 </ul>
 
+## Testing
+<ul>
 
-## 
+</ul>
