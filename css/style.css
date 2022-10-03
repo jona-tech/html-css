@@ -309,37 +309,12 @@ iframe {
 }
 
 @media only screen and (max-width: 375px) {
-
-    h1 {
-        font-size: 2em;
-    }
-
-    #footer {
-        text-align: center;
-        padding: 10px 0 10px 0;
-        margin-left: 15%;
-        display: inline-flex;
-    }
-
-    .h2 {
-        margin: 0 auto;
-        padding-left: 2%;
-        padding-right: 2%;
-        margin-bottom: 5%;
-        letter-spacing: 4px;
-        border-top: 2px solid;
-        border-bottom: 2px solid;
-        font-weight: lighter;
-    }
-}
-
-@media only screen and (max-width: 320px) {
     body {
         width: 100%;
     }
 
     h1 {
-        font-size: 32px;
+        font-size: 2em;
     }
 
     #navbar {
