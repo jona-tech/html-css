@@ -37,11 +37,12 @@ for smaller screens.</li>
 <li>This page consists of a header and plain text to provide additional information to curious users.</li>
 <li>The text ends with a link to Wikipedia so that the user can find even more information about mindfulness.</li>
 <img src="https://i.imgur.com/5dhpjsV.png" height="315" width="500">
+<li>On screen sizes smaller than 768px, the border around the main content disappears to make it suitable for smaller screens.</li>
+<img src="https://i.imgur.com/XjqwIFp.png" height="392" width="500">
 </ul>
 <li>Community</li>
 <ul>
 <li>The page consists of a heading, a short text about why you should sign up to the community and a form to sign up.</li>
-<li></li>
 </ul>
 </ul>
 
